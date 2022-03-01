@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copie of a letter sent from an inhabitant of Bridgewater in the county of Somerset which is now under the command of His Majesties forces unto a quartermaster of a troope of horse belonging to the westerne brigade : wherein is set forth the certainty of the landing of 1000 Irish rebels at Mynehead in the said county and of divers others landed at Bristol : together with the governour of Bridgewater his speech to restraine the garrison Souldiers from going to Mynehead to suppresse the progresse of the rebels.</title>
+            <author>Davy, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21060</idno>
+            <idno type="STC">Wing D442</idno>
+            <idno type="EEBO-CITATION">12076433</idno>
+            <idno type="OCLC">ocm 12076433</idno>
+            <idno type="VID">196919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E74, no 20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copie of a letter sent from an inhabitant of Bridgewater in the county of Somerset which is now under the command of His Majesties forces unto a quartermaster of a troope of horse belonging to the westerne brigade : wherein is set forth the certainty of the landing of 1000 Irish rebels at Mynehead in the said county and of divers others landed at Bristol : together with the governour of Bridgewater his speech to restraine the garrison Souldiers from going to Mynehead to suppresse the progresse of the rebels.</title>
+                  <author>Davy, Henry.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lownes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: Bridgewater October 27, 1643. Hen. Davy.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Minehead (England) --  History.</term>
+               <term>Bridgwater (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196919:1" rendition="simple:additions"/>
+            <p>The true Copie of a LETTER ſent from an Inhabitant of <hi>BRIDGEWATER</hi> In the County of <hi>Somerſet,</hi> which is now under the command of his Maje<g ref="char:EOLhyphen"/>ſties Forces, unto a Quartermaſter of a Troope of Horſe belonging to the Weſterne Brigade.</p>
+            <p>Wherein is ſet forth the certainty of the landing of 1000. <hi>Jriſh</hi> Rebels at <hi>Mynehead</hi> in the ſaid County, and of divers others landed at <hi>BRISTOL.</hi>
+            </p>
+            <p>TOGETHER With the Governour of <hi>Bridgewater</hi> his Speech to reſtraine the garriſon Souldi<g ref="char:EOLhyphen"/>ers from going to <hi>Mynehead</hi> to ſuppreſſe the Progreſſe of the Rebels.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Richard Lownes,</hi> and are to be ſold at his Shop neere Ludgate. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196919:2"/>
+            <pb n="1" facs="tcp:196919:2"/>
+            <head>The true Copy of a LETTER ſent from an Inhabitant of <hi>Bridgewater,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Somerſet,</hi> which is now under the comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſties Force<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>unto a Quarter-master of a troope of Horſe belonging to the Westerne Brigade.</hi>
+            </head>
+            <opener>
+               <salute>Noble Quartermaſter,</salute>
+            </opener>
+            <p>HAving ſo fit an opportunity, and ſuch vari<g ref="char:EOLhyphen"/>ety of newes afforded me, I could not paſſe you by unſaluted, with a full and true Nar<g ref="char:EOLhyphen"/>ration of the Affaires in theſe your native parts. Upon Tueſday laſt, Lieutenant <hi>Jones</hi> (who ſometimes belonged to the worthy Colonell <hi>Edward Popham</hi>) came to our Town, with Letters from <hi>Oxford,</hi> directed to our Governour Maſter <hi>Edmund Wyndeham,</hi> the contents whereof we know not, but doe beleeve it was for the ſending the Garriſon Souldiers towards <hi>Oxford;</hi> for the day after his comming to us, all the Souldiers in the Towne were drawne forth, being in number 300 Muſquetiers, and they marched about two miles; but upon a ſodaine the Governour ſent to command the ſaid Souldiers backe againe. The occaſi<g ref="char:EOLhyphen"/>on was this: On Munday night laſt, <hi>Noah Rendall</hi> came
+<pb n="2" facs="tcp:196919:3"/>from <hi>Mynehead,</hi> and brought certaine newes that there were landed in that place about a thouſand Iriſh Rebels, which ſo amazed the poore Souldiers, that they all with an unanimous voyce cried, <hi>away to</hi> Min<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, <hi>le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us cut thoſe Papiſh Dogges throats.</hi> This noy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e continued a<g ref="char:EOLhyphen"/>bout two houres; when at laſt <hi>Windham</hi> (th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t old prin<g ref="char:EOLhyphen"/>ciple Patriot of P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſts and Monopoliſt) came to the Souldiers and uſed this learned Oration.</p>
+            <p>
+               <hi>Gentlemen Souldiers, you have hitherto quitted you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ravely, ſo that no interiour Souldiers deſerve better of his ſacred Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esly then your ſelves doe, for which I doe not onely render you many thankes, but doe alſo promiſe you as I am a Gentleman, to give you as much ſatisfaction as your hearts can deſire. But to give you true notice what thoſe are which you call Rebels at</hi> Minehead, <hi>know for certaine, that they are no more Rebels then I, or your ſelves are: No, they are our friends, our brethren, whoſe zeale for our Reli<g ref="char:EOLhyphen"/>gion, Lawes and Kings Monarchy, have brought them hi<g ref="char:EOLhyphen"/>ther, to ſuppreſſe the inſolencies of thoſe true Rebels, the pretended Parliament, and the Round-heads; theſe are thoſe that come to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyne with you (and</hi> 8000 <hi>more are upon comming) to eſtabliſh our Soveraigne in his glorious throne, and to make the almoſt extinct flames of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion ſhine in his former luſtre. Therefore (brave Gen<g ref="char:EOLhyphen"/>tlemen) take your reſt this night, and I beſeech you make no mutinies, for the time will not be long ere the worke will be ended, and then inſtead of being commanded, you your ſelves ſhall be Commanders of the ſeverall eſtates which the Round-heads have enjoyed.</hi>
+            </p>
+            <p>No ſooner had this Tertullus ended his inſinuating Oration, but one of the Souldiers ſwore with a great oath, ſaying, we have now brought our Hogges to a fair
+<pb n="3" facs="tcp:196919:3"/>Market; what be there not Proteſtants enough in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to fight for our Religion, but the King muſt ſend for the <hi>Iriſh</hi> Papiſts? (I ſee I muſt not call them Re<g ref="char:EOLhyphen"/>bells) He never hold with Papiſts as long as I breath, and preſently all the Souldiers cryed no Papiſts ſhould joyn with them. So that there was a terrible Mutiny till the Maſters of the Towne came and appeaſed them. Now theſe Souldiers were very glad that they had an oppor<g ref="char:EOLhyphen"/>tunity offered them the next day to runne away (which they had done if they had recovered two miles farther) that ſo they might have paſſed the danger of <hi>Wyndehams</hi> ſonnes Troopes: Of which plot <hi>Wyndeham</hi> being adver<g ref="char:EOLhyphen"/>tiſed, demanded them backe againe. You will not be<g ref="char:EOLhyphen"/>leeve how the comming over of the Rebels at <hi>Minehead</hi> and at <hi>Bristoll</hi> (for we heare for certaine that there are 2000 landed there) hath wrought upon the heart<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Maſter <hi>Hill,</hi> Maſter <hi>B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kin,</hi> Maſter <hi>Pits,</hi> and generally on all the crew of M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lignants: They now being a<g ref="char:EOLhyphen"/>wakened, doe reaſon among themſelves, whether their Governour be right; that is, whether he be a P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſt or no? And whether this Warre be not a great d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale worſe then the Scots War, for that was but to ſet up Epiſco<g ref="char:EOLhyphen"/>pacy, this to eſtabliſh Papacy. And the reſult of all their reaſoning is, that certainly the Parliament is in the right way, and they deſire God to pardon them, that they have yeelded no better obedience to the Ordinances of the Parliament. We have here a very great Market upon Thurſdayes, but I beleeve with ſome confidence, that there are 40 buyers to one ſeller, for people are afraid to bring proviſion to market, in regard Captaine <hi>Harvey</hi> (that murtherous Raſcall) and ſome of his crea<g ref="char:EOLhyphen"/>tures, iſſue forth and robs the poore Country people of
+<pb n="4" facs="tcp:196919:4"/>their monies. We are ſqueezed like wax in our weekly payments, ſtill mounting; but I truſt in God it will not be to eſtabliſh the purpoſe of the Kings Councell. I pay weekly (beſides a hundred pounds which I was firſt fined at) 15. <hi>s.</hi> 6. <hi>d.</hi> beſides, I biller at free quarter five Troops. It is a lamentable thing to conſider; but yet it is not onely my caſe, but hundreds more of my fellows and therefore I many times ſolace my ſelfe with the words of the Poet, <hi>Solamen miſeris ſocios babuiſſe delore;</hi> Although we pay ſuch Taxes, yet the foot Souldies are not paid above 14. d. a moneth, and ſome of them no<g ref="char:EOLhyphen"/>thing at all, ſo that here are quotidian fits of Mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inies. The Governour being aſſaulted on Saturd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y laſt, as he was walking on the Corn-hill, by ten ſturdy fellowes, who ſhewed him their ragged cloaths, and torne ſhooes, and told him they muſt have better cloathes, or elſe he ſhould have never a Coat to his backe another (laying his hand on his ſword) told the Governour plainly, that <hi>he was a Papiſt, and that it was evident to all men that it was true, for he had almoſt undone the Country by great Taxations, and had almoſt ſtarved the poore Souldiers, and that he kept all for the dam'd dogges the Iriſh Rebels.</hi> Whereupon the diſtreſſed Governour was faine to run into Maſter <hi>Edward Sealyes</hi> houſe, and there he com<g ref="char:EOLhyphen"/>manded the Club-men of the Towne to come and aſſiſt him; unto whoſe command they ſhewed a very briefe and tedious obedience; ſo that if Captaine <hi>Wyndehams</hi> Troop had not then accidentally come to the Towne, I am confident they had puld the houſe obout the Gover<g ref="char:EOLhyphen"/>nours eares: But that Troop ſtild the tumult, and then the Governour came forth and commanded the ſaid ten men to be clapt in the Bilboes. But as ſoone as the
+<pb n="5" facs="tcp:196919:4"/>Troopers were diſmounted, their Comrades releaſed them: And now theſe Mutineers, are to be imbarqued for <hi>Bristoll;</hi> but I know whatever comes of them, they will never fight againſt the Parliament.</p>
+            <p>Here you may ſee that place confirmed, <hi>The wiſdome of this world is fooliſhneſſe with God.</hi> For the faleſharted <hi>Achitophels</hi> about the King thought they had given wiſe Counſel I to have the Rebells brought over to ſubdue his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſties true Subjects, and ſubvert their Religion, Lawes, and Liberties, but I beleeve it will prove the fooliſheſt Councell (though bloody) that they have yet given; for there is not a man in theſe parts, but have waxed cold in his former malignancy, ſince the Bruto that the Rebels were landed in our County. So that if there were but an Army on foot againe in theſe parts, I am confident it would increaſe like a ſhow-ball, for there is nothing more talked of and feared, than that thoſe blood-thirſty Saint murthering Rogues will make this County an <hi>Aceldama.</hi> But I hope the Lord of Hoſts is yet with us, and that the God of <hi>Jacob</hi> will ſo protect u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that the end of theſe Rebels coming into <hi>England</hi> ſhall be to ſave our <hi>Engliſh</hi> men a labour, to confound thoſe Helhounds here, that were ſo marchleſſe in their owne Countrey, for I aſſure you they will want their Fennes and Quagmires to retreat unto here in <hi>England.</hi> I heare his Majeſties Army doth encreaſe with ſuch as runne from your Army, which, if true, I wiſh he may have no abler men than that valiant runaway Atheiſti<g ref="char:EOLhyphen"/>call turne-coat <hi>Jones,</hi> whom I before ment<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oned, for you k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow he is very able with a wench in a Barly-cloſe but m ghty apt to runne at the ſight of the enemy. Our Organs toot it out to the purpoſe ſix times on a Lords
+<pb n="6" facs="tcp:196919:5"/>day; for preaching we have commonly as good as was uſuall in <hi>Wels</hi> Cathedrall. I hope our ſufferings are al<g ref="char:EOLhyphen"/>moſt at the higheſt, we hope of a weſterne Army, but if we ſhould ſpeake of any preparation or likelyhood of it, we ſhould preſently be clapt into priſon. I have bin the more tedious, becauſe I would ſet forth the truth at large, and alſo beleeving it will not be troubleſome to you to read it, in regard (as I heare) you want imploy<g ref="char:EOLhyphen"/>ment, which I hartily wiſh you to your content; and ſo I commit you to the protection of the Almighty, deſi<g ref="char:EOLhyphen"/>ring him to bleſſe, protect and guide you.</p>
+            <closer>
+               <dateline>
+                  <hi>Bridgewater</hi> 
+                  <date>October 27. 1643.</date>
+               </dateline>
+               <signed>
+                  <hi>Your aſſured loving friend and Schoolefellow</hi> Hen. Davy.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is Licenced and Entred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
